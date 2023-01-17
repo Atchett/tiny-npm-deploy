@@ -1,7 +1,7 @@
 {
   "name": "atchett-tiny-npm-deploy",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A small test NPM package",
   "publishConfig": {
     "access": "public"
   },
